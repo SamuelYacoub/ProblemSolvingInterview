@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\projects\\problem_solving_interviews\\A. Night at the Museum\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BA47D397-6509-4B39-A071-366475499266}|A. Night at the Museum.vcxproj|D:\\projects\\problem_solving_interviews\\A. Night at the Museum\\A. Night at the Museum.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BA47D397-6509-4B39-A071-366475499266}|A. Night at the Museum.vcxproj|solutionrelative:A. Night at the Museum.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "A. Night at the Museum.cpp",
+              "DocumentMoniker": "D:\\projects\\problem_solving_interviews\\A. Night at the Museum\\A. Night at the Museum.cpp",
+              "RelativeDocumentMoniker": "A. Night at the Museum.cpp",
+              "ToolTip": "D:\\projects\\problem_solving_interviews\\A. Night at the Museum\\A. Night at the Museum.cpp",
+              "RelativeToolTip": "A. Night at the Museum.cpp",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAwDUAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-01-11T20:19:08.621Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

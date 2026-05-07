@@ -1,0 +1,3 @@
+﻿  A. Petya and Strings.cpp
+D:\projects\problem_solving_interviews\A. Petya and Strings\A. Petya and Strings.cpp(24,11): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  A. Petya and Strings.vcxproj -> D:\projects\problem_solving_interviews\A. Petya and Strings\x64\Debug\A. Petya and Strings.exe

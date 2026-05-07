@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\projects\\problem_solving_interviews\\A. Bear and Big Brother\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{30614947-5D48-4DD1-B5EC-03CAB7684F2E}|A. Bear and Big Brother.vcxproj|D:\\projects\\problem_solving_interviews\\A. Bear and Big Brother\\A. Bear and Big Brother.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{30614947-5D48-4DD1-B5EC-03CAB7684F2E}|A. Bear and Big Brother.vcxproj|solutionrelative:A. Bear and Big Brother.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "A. Bear and Big Brother.cpp",
+              "DocumentMoniker": "D:\\projects\\problem_solving_interviews\\A. Bear and Big Brother\\A. Bear and Big Brother.cpp",
+              "RelativeDocumentMoniker": "A. Bear and Big Brother.cpp",
+              "ToolTip": "D:\\projects\\problem_solving_interviews\\A. Bear and Big Brother\\A. Bear and Big Brother.cpp",
+              "RelativeToolTip": "A. Bear and Big Brother.cpp",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAIwBIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-01-04T19:05:22.798Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
